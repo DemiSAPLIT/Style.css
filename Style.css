@@ -1,0 +1,43 @@
+html {
+    background-color: bisque;
+    background-size: cover;
+    background-image: url("https://cdn.discordapp.com/attachments/1305115543631560768/1305115804777447434/cyber.jpg?ex=67332ccf&is=6731db4f&hm=9fc80822f6b58bd2719d3f756cff5b85cffbe39b9f98e220e8955f5af434f3ff&");
+
+}
+body {
+    text-align: center;
+    font-family: cursive;
+}
+.container1 {
+    background-color: #58b8a074;
+    padding: 1px;
+    border-radius: 40px;
+    max-width: 120px;
+    margin: 0px auto;
+    text-align: center;
+}
+.container2 {
+    background-color: #58b8a09c;
+    padding: 10px;
+    border-radius: 20px;
+    max-width: 300px;
+    margin: 0px auto;
+    text-align: start;
+
+}
+h1 {
+    font-size: 32px;
+    background-color: rgba(127, 255, 212, 0.422);
+    margin: 0px auto;
+}
+h2 {
+    font-size: 28px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+img {
+    opacity: 0.90;
+}
+p {
+    font-size: 16px;
+}
